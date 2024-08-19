@@ -4387,7 +4387,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "mcu:rp2040-zero-tht"
+		(property "Footprint" "Libs:rp2040-zero-tht"
 			(at 130.4641 71.12 0)
 			(effects
 				(font
@@ -4587,7 +4587,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_Medved"
+		(property "Footprint" "Libs:R_0805_Medved"
 			(at 43.18 80.01 90)
 			(effects
 				(font
@@ -4723,7 +4723,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Libs:Connector_Mini-DIN_Female_6Pin_2rows"
 			(at 68.58 55.88 0)
 			(effects
 				(font
@@ -5017,7 +5017,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_Medved"
+		(property "Footprint" "Libs:R_0805_Medved"
 			(at 52.832 80.01 90)
 			(effects
 				(font
